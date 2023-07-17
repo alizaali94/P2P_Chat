@@ -1,4 +1,4 @@
-# chatting_app
+# P2P Chat
 
 A new Flutter project.
 
